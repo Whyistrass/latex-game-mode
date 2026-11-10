@@ -1,0 +1,10 @@
+{
+  "block.latexboard.latex_board": "Formula Board",
+  "gui.latexboard.title": "Edit Formula",
+  "gui.latexboard.hint": "Enter LaTeX, e.g. \\frac{a}{b}",
+  "gui.latexboard.confirm": "Confirm",
+  "gui.latexboard.cancel": "Cancel",
+  "gui.latexboard.rendering": "Rendering...",
+  "gui.latexboard.empty": "(empty)",
+  "gui.latexboard.error": "Failed to parse LaTeX"
+}

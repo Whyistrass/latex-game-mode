@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "latexboard:block/latex_board"
+    }
+  }
+}

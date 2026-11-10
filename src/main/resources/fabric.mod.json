@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "latexboard",
+  "version": "${version}",
+  "name": "LaTeX Board",
+  "description": "Craft a board and render LaTeX formulas on it.",
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.latexboard.LatexBoardMod"
+    ],
+    "client": [
+      "com.latexboard.client.LatexBoardClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}

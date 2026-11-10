@@ -1,0 +1,10 @@
+{
+  "block.latexboard.latex_board": "公式板",
+  "gui.latexboard.title": "编辑公式",
+  "gui.latexboard.hint": "输入 LaTeX，例如 \\frac{a}{b}",
+  "gui.latexboard.confirm": "确认",
+  "gui.latexboard.cancel": "取消",
+  "gui.latexboard.rendering": "渲染中…",
+  "gui.latexboard.empty": "（空）",
+  "gui.latexboard.error": "LaTeX 解析失败"
+}
