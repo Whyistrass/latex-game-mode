@@ -3,6 +3,8 @@
 在 Minecraft 中放置一块可编辑的展示板，实时渲染 LaTeX 数学公式。
 A Fabric mod for Minecraft that renders LaTeX formulas on an editable in-game board.
 
+![游戏内效果](docs/screenshot.png)
+
 ## 功能 / Features
 
 - 新增 **LaTeX Board** 方块：8 块木板 + 1 张纸合成
